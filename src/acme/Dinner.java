@@ -7,4 +7,5 @@ public class Dinner {
 	Date servingTime;
 	Integer people;
 
+	List<Object> ingredients;
 }
